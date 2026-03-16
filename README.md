@@ -37,7 +37,11 @@ match3/
      - **macOS**
      - **Linux**
 
-3. **Future Enhancements**
+3. **Application Architecture**
+   - The application has been designed using the **MVC (Model–View–Controller) architectural pattern**.
+   - This structure separates the game logic, user interface, and control flow, making the application easier to maintain, extend, and test.
+
+4. **Future Enhancements**
    - Based on the provided instructions and current implementation, the game represents a **basic functional version**.
    - Further **enhancements, improvements, and testing** may be required for future versions to improve:
      - Stability
@@ -45,7 +49,7 @@ match3/
      - Additional game features
      - Performance and robustness
 
-4. **Running the Game**
+5. **Running the Game**
    - To execute the game, please follow the instructions provided in the **“How to Run the Game?”** section.
 
 ## How to Run the Game?
