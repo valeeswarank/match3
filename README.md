@@ -25,6 +25,29 @@ match3/
 │
 └── main.py```
 ```
+## Assumptions and Notes
+
+1. **Operating System**
+   - The game has been developed and tested using the **Windows operating system**.
+   - It is assumed that users will run the game on a **Windows machine**.
+
+2. **Cross-Platform Compatibility**
+   - The game has **not yet been tested on macOS or Linux environments**.
+   - Additional testing is required to ensure the game runs correctly on:
+     - **macOS**
+     - **Linux**
+
+3. **Future Enhancements**
+   - Based on the provided instructions and current implementation, the game represents a **basic functional version**.
+   - Further **enhancements, improvements, and testing** may be required for future versions to improve:
+     - Stability
+     - Cross-platform compatibility
+     - Additional game features
+     - Performance and robustness
+
+4. **Running the Game**
+   - To execute the game, please follow the instructions provided in the **“How to Run the Game?”** section.
+
 ## How to Run the Game?
 1. Open your Command Prompt (cmd) or terminal.
 2. Navigate to the project directory using the following command: 
